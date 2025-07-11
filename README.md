@@ -7,7 +7,7 @@
 ### Estoy en la carrera de Ingenieria Informatica
 ### Actualmente cursando una nueva materia
 
-# ***Nunca es tarde para adquirir nuevos conocimientos , siempre se puede aprender algo nuevo!!!***
+# ***recuerda: Nunca es tarde para adquirir nuevos conocimientos , siempre se puede aprender algo nuevo***
 <!--
 **FabiolaVargas1/FabiolaVargas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
